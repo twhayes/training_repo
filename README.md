@@ -1,2 +1,2 @@
-# training_repo
-temp for wheelhouse training
+#### Learning Github
+- how best to use for coding and collaboration?
